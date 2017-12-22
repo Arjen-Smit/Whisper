@@ -1,0 +1,22 @@
+{
+  "name": "whisper",
+  "version": "1.0.0",
+  "description": "My new home automation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjen-Smit/Whisper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjen-Smit/Whisper/issues"
+  },
+  "homepage": "https://github.com/Arjen-Smit/Whisper#readme",
+  "dependencies": {
+    "node-hue-api": "^2.4.2"
+  }
+}

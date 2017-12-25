@@ -39,7 +39,7 @@ function listening (err) {
             }
         })
     });
-    console.log('\n\n');
+    console.log('\n');
 }
 
 var handlePOST = function(request, response) {
